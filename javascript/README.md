@@ -13,6 +13,7 @@
 
 * [React/Redux](react.md)
 * [React Native](react-native.md)
+* [Vue.js](vue.md)
 
 ## Node.js
 
