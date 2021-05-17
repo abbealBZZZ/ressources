@@ -32,3 +32,8 @@ La documentation officielle.
 
 ---
 
+## Convention des commits
+
+Il existe une convention pour le nommage des commits git pour faciliter la compréhension à la lecture de ces derniers.
+La convention a été initialement inventée par google sur le projet angular, mais la communauté à mettre en place un site le détaillant :
+* [conventionalcommits.org](https://www.conventionalcommits.org/en/v1.0.0/)
